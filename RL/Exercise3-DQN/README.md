@@ -16,9 +16,9 @@ CartPole-V0_DQN.py是在DQN在**CartPole_v0**环境下进行测试的代码
 
 <img src="graph/mean_rewards.png" width="300" height="240" alt="训练时的平均回报"/>
 
-测试时的得分
+训练时的损失
 
-<img src="graph/losses.png" width="300" height="300" alt="测试时的得分"/>
+<img src="graph/losses.png" width="300" height="300" alt="训练时的损失"/>
  
 
 
