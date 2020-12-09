@@ -8,9 +8,9 @@ data中保存的是代码执行中的数据，以.npy的格式保存
 
 graph中保存的是绘制的图形
 
-MyDQN.py是DQN模型
+DQN.py是DQN模型
 
-CartPole_V0_DQN.py是在DQN在**CartPole_v0**环境下进行测试的代码
+CartPole-V0_DQN.py是在DQN在**CartPole_v0**环境下进行测试的代码
 
 <div align=center><img src="graph/mean_rewards.png" width="300" height="240" alt="训练时的平均回报"/><br/>
 <p align="center">训练时的平均回报</p>
