@@ -12,7 +12,7 @@ MyDQN.py是DQN模型
 
 CartPole_V0_DQN.py是在DQN在CartPole_v0环境下进行测试的代码
 
-<img src="graph/mean_rewards.png" width="200" height="200" alt="训练时的平均回报"/><br/>
-![训练时的平均回报](graph/mean_rewards.png)
+.<div align=center><img src="graph/mean_rewards.png" width="200" height="200" alt="训练时的平均回报"/><br/>
+
 
 ![测试时的回报](graph/train_scores.png)
