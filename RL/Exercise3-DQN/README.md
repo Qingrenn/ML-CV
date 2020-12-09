@@ -12,6 +12,6 @@ MyDQN.py是DQN模型
 
 CartPole_V0_DQN.py是在DQN在CartPole_v0环境下进行测试的代码
 
-！[Mistakes](https://github.com/Qingrenn/ML-CV/tree/main/RL/Exercise3-DQN/graph/mean_rewards.png)
+![训练时的平均回报](https://github.com/Qingrenn/ML-CV/tree/main/RL/Exercise3-DQN/graph/mean_rewards.png)
 
-！[Mistakes](https://github.com/Qingrenn/ML-CV/tree/main/RL/Exercise3-DQN/graph/train_scores.png)
+![测试时的回报](https://github.com/Qingrenn/ML-CV/tree/main/RL/Exercise3-DQN/graph/train_scores.png)
