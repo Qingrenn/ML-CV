@@ -1,13 +1,25 @@
-# DQN算法完成CartPole-v0
+# DQN
 
-:wink:环境：Tensorflow2.3 Gym numpy 等
+环境：Tensorflow2.3、Gym、numpy
 
-model：存放的是训练好的模型
+model中存放的是训练好的模型
 
-data：保存的是代码执行中的数据，以.npy的格式保存
+data中保存的是代码执行中的数据，以.npy的格式保存
 
-graph：保存的是绘制的图形
+graph中保存的是绘制的图形
 
-MyDQN：DQN模型
+DQN.py是DQN模型
 
-CartPole_V0_DQN：在CartPole_v0环境下，DQN模型训练与测试
+CartPole-V0_DQN.py是在DQN在**CartPole_v0**环境下进行测试的代码
+
+训练时的平均回报
+
+<img src="graph/mean_rewards.png" width="300" height="240" alt="训练时的平均回报"/>
+
+训练时的损失
+
+<img src="graph/losses.png" width="300" height="300" alt="训练时的损失"/>
+ 
+
+
+
