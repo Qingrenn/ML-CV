@@ -1,0 +1,5 @@
+eat_pytorch_day1/.*
+eat_pytorch_day2/.*
+eat_pytorch_day2/cifar2/.DS_Store
+eat_pytorch_day2/cifar2/test/.DS_Store
+eat_pytorch_day2/cifar2/train/.DS_Store
